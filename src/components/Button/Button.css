@@ -6,6 +6,5 @@
 	border: none;
 	cursor: pointer;
 	background-color: var(--primary-color);
-	margin-right: 90px;
 	align-self: end;
 }
