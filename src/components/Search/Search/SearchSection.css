@@ -1,3 +1,3 @@
 .searchSection {
-	max-width: calc(100% / 2);
+	max-width: calc((100% / 12) * 5);
 }

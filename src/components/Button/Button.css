@@ -1,9 +1,11 @@
 .button {
 	padding: 16px 32px;
-	border-radius: 12px;	
+	border-radius: 12px;
 	font-size: 16px;
 	color: white;
 	border: none;
 	cursor: pointer;
 	background-color: var(--primary-color);
+	margin-right: 90px;
+	align-self: end;
 }
