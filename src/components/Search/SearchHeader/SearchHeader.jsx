@@ -5,6 +5,9 @@ import Paragraph from '../../Paragraph/Paragraph';
 import './SearchHeader.css';
 
 export default function SearchHeader() {
+
+
+	
 	return (
 		<section className="serach-header">
 			<HeadingText>Поиск</HeadingText>
