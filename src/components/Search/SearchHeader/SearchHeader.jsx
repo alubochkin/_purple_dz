@@ -1,6 +1,6 @@
 import HeadingText from '../../HeadingText/HeadingText';
 import Button from '../../Button/Button';
-import Paragraph from '../../Paragraph/paragraph';
+import Paragraph from '../../Paragraph/Paragraph';
 
 import './SearchHeader.css';
 
