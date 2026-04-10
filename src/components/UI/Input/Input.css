@@ -1,0 +1,44 @@
+.input-container {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	flex: 1;
+	position: relative;
+
+
+}
+
+.input {
+	width: 100%;
+	padding: 16px;
+	border: none;
+	font-size: 16px;
+	box-sizing: border-box;
+	border-radius: 5px;
+	border: 1px solid #323B54;
+	background: rgba(0, 0, 0, 0.1);
+	padding-left: 40px;
+
+}
+input[placeholder] {
+	font-size: 14px;
+}
+
+input:focus-visible {
+	border: 1px solid #424d6b;
+	outline: none;
+}
+
+.withIcon {
+	padding-left: 40px;
+}
+
+.input-icon {
+	width: max-content;
+	height: 20px;
+	position: absolute;
+	z-index: 100;
+	transform: translateY(-50%);
+	top: 50%;
+	left: 10px;
+}

@@ -1,4 +1,13 @@
 :root {
+}
+
+:root {
+	--color-primary: #000;
+	--color-secondary: #fff;
+
+	--bg: #121829;
+
+	--bg-secondary: #323b54;
 	--primary-color: #7b6ef6;
 	--secondary-color: #121829;
 	--text-color: #fff;
@@ -29,7 +38,7 @@ body {
 	font-size: 16px;
 	line-height: 24px;
 	width: 100%;
-	background-color: var(--secondary-color);
+	background-color: var(--bg);
 	box-sizing: border-box;
 
 	font-family: var(--sans);
