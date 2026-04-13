@@ -1,0 +1,19 @@
+.menu-item {
+	display: flex;
+	gap: 10px;
+	align-items: center;
+	cursor: pointer;
+	color: var(--text-gray);
+}
+
+.menu-item-count {
+	background-color: var(--primary-color);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+	color: #fff;
+	width: 24px;
+	height: 24px;
+	font-size: 14px;
+}
