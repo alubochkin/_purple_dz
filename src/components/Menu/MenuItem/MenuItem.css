@@ -4,6 +4,7 @@
 	align-items: center;
 	cursor: pointer;
 	color: var(--text-gray);
+	font-weight: 600;
 }
 
 .menu-item-count {
